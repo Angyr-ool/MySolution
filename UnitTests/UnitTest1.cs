@@ -18,4 +18,9 @@ public class UnitTest1
     {
         Assert.AreEqual(3, 3);
     }
+    [TestMethod]
+    public void TestMethod_4()
+    {
+        Assert.AreEqual(4, 4);
+    }
 }
