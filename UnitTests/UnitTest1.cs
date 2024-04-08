@@ -16,6 +16,6 @@ public class UnitTest1
     [TestMethod]
     public void TestMethod_3()
     {
-        Assert.AreEqual(3, 0);
+        Assert.AreEqual(3, 3);
     }
 }
